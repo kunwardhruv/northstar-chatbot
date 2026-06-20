@@ -61,7 +61,8 @@ streamlit run app.py
 ## 🖼️ Screenshots
 
 ### Welcome Message
-![Welcome Message](https://github.com/user-attachments/assets/391ba513-c75a-49db-92b7-297ca10e588b)
+![Welcome Message](https://github.com/user-attachments/assets/3adf5d95-cb4d-40ab-9675-68e051f0ad01)
+
 
 ---
 
@@ -71,7 +72,8 @@ User: "Where is my order?" / "Track my package"
 → Bot asks for order number
 → Try: 111, 222, 333, or any invalid number
 ```
-![Order Tracking](https://github.com/user-attachments/assets/9fd4d3b9-0732-4848-8b7c-ffcd4fa95b3f)
+![Order Tracking](https://github.com/user-attachments/assets/d794e264-e4ea-4580-866b-612d5080ab93)
+
 
 ---
 
@@ -80,7 +82,8 @@ User: "Where is my order?" / "Track my package"
 User: "I want to return an item" / "How do I exchange a product?"
 → Bot explains 30-day return policy + provides returns link
 ```
-![Returns and Exchanges](https://github.com/user-attachments/assets/4e8222e3-a7f5-4177-a675-0d510ceda9c1)
+![Returns and Exchanges](https://github.com/user-attachments/assets/ac1ae10b-d7e8-4e56-b334-a218eb4b10ed)
+
 
 ---
 
@@ -89,7 +92,8 @@ User: "I want to return an item" / "How do I exchange a product?"
 User: "I need product recommendations" / "What gear for hiking?"
 → Bot asks activity type → asks budget → recommends category
 ```
-![Product Recommendations](https://github.com/user-attachments/assets/576fc4b2-a915-4c2c-81fe-e6fac3513afd)
+![Product Recommendations](https://github.com/user-attachments/assets/46cab4b9-4a39-4217-a4ec-1abdf8f6ac80)
+)
 
 ---
 
@@ -98,7 +102,8 @@ User: "I need product recommendations" / "What gear for hiking?"
 User: "Talk to a real person" / "Connect me to a live agent"
 → Bot transfers to Live Agent + generates session reference number
 ```
-![Human Handoff](https://github.com/user-attachments/assets/c34ccc5a-4c05-4364-9c48-5e3b75810376)
+![Human Handoff](https://github.com/user-attachments/assets/90a81dc1-f7d9-4798-be4f-a43a12424012)
+
 
 ---
 
@@ -107,7 +112,8 @@ User: "Talk to a real person" / "Connect me to a live agent"
 User: "blah blah random" / "Do you sell cars?"
 → Bot responds with "didn't understand" + shows main menu
 ```
-![Fallback Handling](https://github.com/user-attachments/assets/caa929b8-1eaa-4158-89d5-2772fae8d09e)
+![Fallback Handling](https://github.com/user-attachments/assets/ba17b5a9-f5bc-44d0-890d-277ce0e7aefa)
+
 
 ---
 
