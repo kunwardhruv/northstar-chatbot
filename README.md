@@ -60,35 +60,47 @@ streamlit run app.py
 
 ## 🧪 Test Scenarios
 
+###    welcome message 
+
 ### 📦 Order Tracking
 ```
 User: "Where is my order?" / "Track my package"
 → Bot asks for order number
 → Try: 111, 222, 333, or any invalid number
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/9fd4d3b9-0732-4848-8b7c-ffcd4fa95b3f" />
+
 ```
 
 ### 🔄 Returns & Exchanges
 ```
 User: "I want to return an item" / "How do I exchange a product?"
 → Bot explains 30-day return policy + provides returns link
+<img width="1920" height="1080" alt="3" src="https://github.com/user-attachments/assets/4e8222e3-a7f5-4177-a675-0d510ceda9c1" />
+
 ```
 
 ### 🏔️ Product Recommendations
 ```
 User: "I need product recommendations" / "What gear for hiking?"
 → Bot asks activity type → asks budget → recommends category
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/576fc4b2-a915-4c2c-81fe-e6fac3513afd" />
+
 ```
 
 ### 👤 Human Handoff
 ```
 User: "Talk to a real person" / "Connect me to a live agent"
 → Bot transfers to Live Agent + generates session reference number
+<img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/c34ccc5a-4c05-4364-9c48-5e3b75810376" />
+
 ```
 
 ### ❓ Fallback
 ```
 User: "blah blah random" / "Do you sell cars?"
 → Bot responds with "didn't understand" + shows main menu
+<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/caa929b8-1eaa-4158-89d5-2772fae8d09e" />
+
 ```
 
 ---
