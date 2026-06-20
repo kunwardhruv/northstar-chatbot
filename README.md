@@ -4,7 +4,7 @@
 
 Built for the **Upwork Talent Accelerator: AI Chatbot Developer** simulated project.
 
-🎥 **[Demo Video](https://drive.google.com/file/d/1liLFCMsZj08P7gtjL-6b6-p75LkfI_w6/view?usp=sharing)** ← *(link update coming soon)*
+🎥 **[Demo Video](https://drive.google.com/file/d/1Pz8_n_RKI-LPpWFx7GJoqR-NqMKDMnNS/view?usp=sharing)** ← *(link update coming soon)*
 
 ---
 
