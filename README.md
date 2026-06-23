@@ -84,8 +84,14 @@ User: "I want to return an item" / "How do I exchange a product?"
 ```
 ![Returns and Exchanges](https://github.com/user-attachments/assets/ac1ae10b-d7e8-4e56-b334-a218eb4b10ed)
 
-
 ---
+
+### 🚚 Shipping Information
+```
+User: "How long does shipping take?" / "What are your shipping options?"
+→ Bot returns both shipping options with delivery times
+```
+![Shipping Information](https://github.com/user-attachments/assets/760e14ee-6b56-4e14-9790-ae95db430695)
 
 ### 🏔️ Product Recommendations
 ```
@@ -93,7 +99,7 @@ User: "I need product recommendations" / "What gear for hiking?"
 → Bot asks activity type → asks budget → recommends category
 ```
 ![Product Recommendations](https://github.com/user-attachments/assets/46cab4b9-4a39-4217-a4ec-1abdf8f6ac80)
-)
+
 
 ---
 
