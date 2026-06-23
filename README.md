@@ -82,6 +82,11 @@ User: "Where is my order?" / "Track my package"
 User: "I want to return an item" / "How do I exchange a product?"
 → Bot explains 30-day return policy + provides returns link
 ```
+### 🚚 Shipping Information
+```
+User: "How long does shipping take?" / "What are your shipping options?"
+→ Bot returns both shipping options with delivery times
+```
 ![Returns and Exchanges](https://github.com/user-attachments/assets/ac1ae10b-d7e8-4e56-b334-a218eb4b10ed)
 
 ---
